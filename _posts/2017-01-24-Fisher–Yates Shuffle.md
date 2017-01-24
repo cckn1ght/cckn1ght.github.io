@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Iterm2 ZSH Settings"
+title:  "Fisher–Yates Shuffle"
 date:   2017-01-24 11:26:48 -0500
 categories: Algorithm
 ---
